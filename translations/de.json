@@ -1,32 +1,16 @@
 {
-	"LOADING": "Lade &hellip;",
-
-	"TODAY": "Heute",
-	"TOMORROW": "Morgen",
-	"DAYAFTERTOMORROW": "&Uuml;bermorgen",
-	"RUNNING": "noch",
-	"EMPTY": "Keine Termine.",
-
-	"WEEK": "Woche",
-
-	"N": "N",
-	"NNE": "NNO",
-	"NE": "NO",
-	"ENE": "ONO",
-	"E": "O",
-	"ESE": "OSO",
-	"SE": "SO",
-	"SSE": "SSO",
-	"S": "S",
-	"SSW": "SSW",
-	"SW": "SW",
-	"WSW": "WSW",
-	"W": "W",
-	"WNW": "WNW",
-	"NW": "NW",
-	"NNW": "NNW",
-
-	"UPDATE_NOTIFICATION": "Aktualisierung für MagicMirror² verfügbar.",
-	"UPDATE_NOTIFICATION_MODULE": "Aktualisierung für das MODULE_NAME Modul verfügbar.",
-	"UPDATE_INFO": "Die aktuelle Installation ist COMMIT_COUNT hinter dem BRANCH_NAME branch."
+  "LOADING": "Lade...",
+  "HOME": "Heim",
+  "AWAY": "Auswärts",
+  "PRE_GAME": "Aufwärmen",
+  "1ST_PERIOD": "1. Drittel",
+  "2ND_PERIOD": "2. Drittel",
+  "3RD_PERIOD": "3. Drittel",
+  "OVER_TIME": "Verlängerung",
+  "SHOOTOUT": "Elfmeterschießen",
+  "FINAL": "Beendet",
+  "FINAL_OVERTIME": "Verlängerung beendet",
+  "FINAL_SHOOTOUT": "Elfmeterschießen beendet",
+  "UNKNOWN": "Unbekannt",
+  "TIME_LEFT": "übrig"
 }

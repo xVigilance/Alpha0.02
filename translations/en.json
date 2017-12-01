@@ -1,32 +1,16 @@
 {
-	"LOADING": "Loading &hellip;",
-
-	"TODAY": "Today",
-	"TOMORROW": "Tomorrow",
-	"DAYAFTERTOMORROW": "The day after tomorrow",
-	"RUNNING": "Ends in",
-	"EMPTY": "No upcoming events.",
-
-	"WEEK": "Week",
-
-	"N": "N",
-	"NNE": "NNE",
-	"NE": "NE",
-	"ENE": "ENE",
-	"E": "E",
-	"ESE": "ESE",
-	"SE": "SE",
-	"SSE": "SSE",
-	"S": "S",
-	"SSW": "SSW",
-	"SW": "SW",
-	"WSW": "WSW",
-	"W": "W",
-	"WNW": "WNW",
-	"NW": "NW",
-	"NNW": "NNW",
-
-	"UPDATE_NOTIFICATION": "MagicMirror² update available.",
-	"UPDATE_NOTIFICATION_MODULE": "Update available for MODULE_NAME module.",
-	"UPDATE_INFO": "The current installation is COMMIT_COUNT behind on the BRANCH_NAME branch."
+  "LOADING": "Loading...",
+  "HOME": "Home",
+  "AWAY": "Away",
+  "PRE_GAME": "Warm Up",
+  "1ST_PERIOD": "1st Period",
+  "2ND_PERIOD": "2nd Period",
+  "3RD_PERIOD": "3rd Period",
+  "OVER_TIME": "Over Time",
+  "SHOOTOUT": "Shootout",
+  "FINAL": "Final",
+  "FINAL_OVERTIME": "Final Over Time",
+  "FINAL_SHOOTOUT": "Final Shootout",
+  "UNKNOWN": "Unknown",
+  "TIME_LEFT": "left"
 }
